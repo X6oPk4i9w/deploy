@@ -34,11 +34,11 @@ AURORA_DOCKER_YML_TEMP=${AURORA_HOME}/docker-compose.yml.tmp
 GITHUB_RAW_URL="raw.githubusercontent.com"
 GITHUB_URL="github.com"
 AURORA_GITHUB="Aurora-Admin-Panel"
-AURORA_YML_URL="https://${GITHUB_RAW_URL}/${AURORA_GITHUB}/deploy/main/docker-compose.yml"
-AURORA_DEV_YML_URL="https://${GITHUB_RAW_URL}/${AURORA_GITHUB}/deploy/main/docker-compose-dev.yml"
-DOCKER_INSTALL_URL="https://get.docker.com"
+AURORA_YML_URL="https://github.gnnat.top/https://${GITHUB_RAW_URL}/${AURORA_GITHUB}/deploy/main/docker-compose.yml"
+AURORA_DEV_YML_URL="https://github.gnnat.top/https://${GITHUB_RAW_URL}/${AURORA_GITHUB}/deploy/main/docker-compose-dev.yml"
+DOCKER_INSTALL_URL="https://github.gnnat.top/https://get.docker.com"
 DOCKER_COMPOSE_CMD='docker compose'
-DOCKER_COMPOSE_URL="https://${GITHUB_URL}/docker/compose/releases/download/v2.29.7/docker-compose-$(uname -s)-$(uname -m)"
+DOCKER_COMPOSE_URL="https://github.gnnat.top/https://${GITHUB_URL}/docker/compose/releases/download/v2.29.7/docker-compose-$(uname -s)-$(uname -m)"
 
 AURORA_DEF_IP=""
 AURORA_DEF_PORT=8000
